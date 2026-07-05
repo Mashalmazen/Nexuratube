@@ -13,7 +13,7 @@
 	NexuraTube is a free and open source video/audio downloader using yt-dlp for Android 7.0 and above.
 </h3>
 <h4 align="center">
-	Designed and Developed by Mashal Mazen Al-Hadali
+	Designed and Developed by Mashal Mazen Al-Hodali
 </h4>
 
 <div align="center">
